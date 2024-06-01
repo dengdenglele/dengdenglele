@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hi there 👋👋👋
+
+Carlo is an Information Systems professional in Wuerzburg, Germany. Some of his GitHub repositories that you may be interested in include:
+
+### Work in progress
+
+- [debian-setup](https://github.com/dengdenglele/debian-setup)
+- [GitHub Codespaces teaching notes](about:blank)
 
 <!--
 **dengdenglele/dengdenglele** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
