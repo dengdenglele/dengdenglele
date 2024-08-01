@@ -6,6 +6,7 @@ Carlo is an Information Systems professional in Wuerzburg, Germany. Some of his 
 
 - [debian-setup](https://github.com/dengdenglele/debian-setup): How to setup a minimal and bloat free Debian installation
 - [codespaces-cli](https://github.com/dengdenglele/codespaces-cli): Learn how to use the command line with GitHub codespaces
+- [windows-setup](https://github.com/dengdenglele/windows-setup): Get rid of the bloat, optimize system
 
 <!--
 **dengdenglele/dengdenglele** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
