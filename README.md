@@ -4,6 +4,8 @@ Carlo is an Information Systems professional in Wuerzburg, Germany. Some of his 
 
 ### Work in progress
 
+- [cheat-sheet](https://github.com/dengdenglele/cheat-sheet): Useful everyday commands 
+- [arch-setup](https://github.com/dengdenglele/arch-setup): I try arch btw
 - [debian-setup](https://github.com/dengdenglele/debian-setup): How to setup a minimal and bloat free Debian installation
 - [ubuntu-setup](https://github.com/dengdenglele/ubuntu-setup): How to setup a minimal and snap free Ubuntu installation
 - [fedora-setup](https://github.com/dengdenglele/fedora-setup): Getting familiar with first rolling release distro 
