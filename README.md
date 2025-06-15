@@ -5,14 +5,14 @@ Carlo is an Information Systems professional in Wuerzburg, Germany. Some of his 
 ### Work in progress
 
 - [cheat-sheet](https://github.com/dengdenglele/cheat-sheet): Useful everyday commands 
+- [project-wyse](https://github.com/dengdenglele/project-wyse): Collection of ideas and instuctions what can be done with this Raspberry Pi 4 alternative
+- [troubleshooting](https://github.com/dengdenglele/troubleshooting): Keep track of the big and small problems solved when using Linux on a daily basis
+- [codespaces-cli](https://github.com/dengdenglele/codespaces-cli): Learn how to use the command line with GitHub codespaces
 - [arch-setup](https://github.com/dengdenglele/arch-setup): I try arch btw
 - [debian-setup](https://github.com/dengdenglele/debian-setup): How to setup a minimal and bloat free Debian installation
 - [ubuntu-setup](https://github.com/dengdenglele/ubuntu-setup): How to setup a minimal and snap free Ubuntu installation
 - [fedora-setup](https://github.com/dengdenglele/fedora-setup): Getting familiar with first rolling release distro 
-- [codespaces-cli](https://github.com/dengdenglele/codespaces-cli): Learn how to use the command line with GitHub codespaces
 - [windows-setup](https://github.com/dengdenglele/windows-setup): Install windows with local account, get rid of the bloat, optimize the system
-- [project-wyse](https://github.com/dengdenglele/project-wyse): Collection of ideas and instuctions what can be done with this Raspberry Pi 4 alternative
-- [troubleshooting](https://github.com/dengdenglele/troubleshooting): Keep track of the big and small problems solved when using Linux on a daily basis
 
 
 <!--
