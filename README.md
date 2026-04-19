@@ -5,6 +5,7 @@ Carlo is an Information Systems professional in Wuerzburg, Germany. Some of his 
 ### Work in progress
 
 - [cheat-sheet](https://github.com/dengdenglele/cheat-sheet): Useful everyday commands
+- [dotfiles](https://github.com/dengdenglele/dotfiles): My linux settings
 - [linux](https://github.com/dengdenglele/linux): Distro, desktop and admin related linux stuff
 - [troubleshooting](https://github.com/dengdenglele/troubleshooting): Keep track of the big and small problems solved when using Linux on a daily basis
 - [project-wyse](https://github.com/dengdenglele/project-wyse): Collection of ideas and instuctions what can be done with this Raspberry Pi 4 alternative
